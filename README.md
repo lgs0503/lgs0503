@@ -16,7 +16,7 @@
 </p>
 
   
-<h3 align="center"><b>Interset</b></h3>
+<h3 align="center"><b>Interest</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-7357ff?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vue.js-006600?style=flat-square&logo=Vue.js&logoColor=white"/></a>

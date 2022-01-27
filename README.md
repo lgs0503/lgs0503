@@ -1,6 +1,4 @@
 
- # Stack
-
 <h3 align="center"><b>Front</b></h3>
   
 <p align="center">

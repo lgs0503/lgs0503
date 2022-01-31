@@ -1,5 +1,5 @@
 
-<h3 align="center"><b>Front</b></h3>
+<h3 align="center"><b>[ Front ]</b></h3>
   
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </p>
   
-<h3 align="center"><b>Back</b></h3>
+<h3 align="center"><b>[ Back ]</b></h3>
 <p align="center">
   <img src ="https://img.shields.io/badge/Java-f98b00?&style=flat-square&logo=Java&logoColor=white"/></a>
   <img src ="https://img.shields.io/badge/Spring-006600?&style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 </p>
 
   
-<h3 align="center"><b>Interest</b></h3>
+<h3 align="center"><b>[ Interest ]</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-7357ff?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vue.js-006600?style=flat-square&logo=Vue.js&logoColor=white"/></a>
